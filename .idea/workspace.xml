@@ -2,7 +2,84 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d9d496-7f7d-4b92-8751-4d8736d91549" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/.idea/gradle.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/.idea/markdown-navigator/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/.idea/runConfigurations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/google-http-client-1.19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/google-http-client-android-1.19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/google-http-client-gson-1.19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/google-http-client-jackson2-1.19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/gson-2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/guava-18.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/jackson-core-2.1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/java-api-core-2.10.12.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/kinvey-android-2.10.12.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/realm-android-library-1.1.1.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/realm-annotations-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/realm-annotations-processor-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/realm-transformer-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/relinker-1.2RC.aar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/libs/rxjava-1.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/assets/kinvey.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/java/com/teacherhelper/LoginActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/java/com/teacherhelper/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/java/com/teacherhelper/ProfileActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/java/com/teacherhelper/SignupActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/java/com/teacherhelper/TeacherApp.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/drawable-v21/ic_menu_camera.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/drawable-v21/ic_menu_gallery.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/drawable-v21/ic_menu_manage.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/drawable-v21/ic_menu_send.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/drawable-v21/ic_menu_share.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/drawable-v21/ic_menu_slideshow.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/drawable/side_nav_bar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/layout/activity_login.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/layout/activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/layout/activity_profile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/layout/activity_signup.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/layout/app_bar_profile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/layout/content_profile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/layout/nav_header_profile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/menu/activity_profile_drawer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/menu/profile.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-hdpi/teacherhelper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-mdpi/teacherhelper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xhdpi/teacherhelper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xxhdpi/teacherhelper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/mipmap-xxxhdpi/teacherhelper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/values/attrs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/values/colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/values/dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/values/drawables.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/values/strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/app/src/main/res/values/styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/gradle.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/gradle/wrapper/gradle-wrapper.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/gradle/wrapper/gradle-wrapper.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/gradlew" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/gradlew.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HelpForTeacher (Kotlin)/settings.gradle" afterPath="" />
     </list>
     <ignored path="androidCourse.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,8 +109,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-22" />
+    <option name="y" value="599" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
@@ -181,7 +258,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <frame x="-22" y="599" width="1378" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
