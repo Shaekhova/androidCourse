@@ -16,18 +16,21 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.teacherhelper.LoginActivity"
-            android:label="@string/app_name">
-        </activity>
+            android:name="com.teacherhelper.activity.LoginActivity"
+            android:label="@string/app_name" />
         <activity
-            android:name="com.teacherhelper.SignupActivity"
+            android:name="com.teacherhelper.activity.SignupActivity"
             android:label="@string/title_activity_signup" />
         <activity
-            android:name="com.teacherhelper.ProfileActivity"
+            android:name="com.teacherhelper.activity.ProfileActivity"
             android:label="@string/title_activity_profile"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.teacherhelper.MainActivity"
+            android:name="com.teacherhelper.activity.TeacherActivity"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.teacherhelper.activity.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/title_activity_main"
             android:theme="@style/FullscreenTheme">
@@ -37,6 +40,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.teacherhelper.activity.ClassesActivity"
+            android:label="@string/title_activity_classes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.teacherhelper.activity.ClassCreateActivity" />
+        <activity android:name="com.teacherhelper.activity.ClassActivity"></activity>
     </application>
 
 </manifest>

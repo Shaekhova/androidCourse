@@ -27,7 +27,9 @@
 
     <string name="action_settings">Settings</string>
 
-    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_main">TeacherHelper</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_classes">ClassesActivity</string>
+    <string name="no_classes">No classes. Please create new</string>
 </resources>

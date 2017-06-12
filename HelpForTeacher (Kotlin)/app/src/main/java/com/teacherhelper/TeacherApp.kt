@@ -5,16 +5,13 @@ import android.support.multidex.MultiDexApplication
 
 import com.kinvey.android.Client
 
-/**
- * Created by Prots on 3/15/16.
- */
 class TeacherApp : Application() {
 
-    var sharedClient: Client?  = null
+    var sharedClient: KniveyClient?  = null
         internal set
 
     override fun onCreate() {
         super.onCreate()
-        sharedClient = Client.Builder(this).build()
+        sharedClient = KniveyClient(Client.Builder(this).build())
     }
 }
